@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29C6B84C-0229-4575-85F8-E028137CB2CD}|src\\TimeCop.Web\\TimeCop.Web.csproj|c:\\users\\admin\\source\\repos\\timecop\\code\\timecop\\src\\timecop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C6B84C-0229-4575-85F8-E028137CB2CD}|src\\TimeCop.Web\\TimeCop.Web.csproj|solutionrelative:src\\timecop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F65807-DB47-4CE7-BE2C-B4093975F703}|src\\TimeCop\\TimeCop.csproj|c:\\users\\admin\\source\\repos\\timecop\\code\\timecop\\src\\timecop\\timesheet\\timesheetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F65807-DB47-4CE7-BE2C-B4093975F703}|src\\TimeCop\\TimeCop.csproj|solutionrelative:src\\timecop\\timesheet\\timesheetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F65807-DB47-4CE7-BE2C-B4093975F703}|src\\TimeCop\\TimeCop.csproj|c:\\users\\admin\\source\\repos\\timecop\\code\\timecop\\src\\timecop\\identity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F65807-DB47-4CE7-BE2C-B4093975F703}|src\\TimeCop\\TimeCop.csproj|solutionrelative:src\\timecop\\identity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeSheetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop\\TimeSheet\\TimeSheetDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TimeCop\\TimeSheet\\TimeSheetDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop\\TimeSheet\\TimeSheetDbContext.cs",
+              "RelativeToolTip": "src\\TimeCop\\TimeSheet\\TimeSheetDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:00:26.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop\\Identity\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TimeCop\\Identity\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop\\Identity\\UserDbContext.cs",
+              "RelativeToolTip": "src\\TimeCop\\Identity\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T10:00:18.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TimeCop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TimeCop\\Code\\TimeCop\\src\\TimeCop.Web\\Program.cs",
+              "RelativeToolTip": "src\\TimeCop.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:13:43.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

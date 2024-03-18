@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\bin\Debug\net6.0\TimeCop.deps.json
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\bin\Debug\net6.0\TimeCop.dll
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\bin\Debug\net6.0\TimeCop.pdb
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.dll
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\refint\TimeCop.dll
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.pdb
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\ref\TimeCop.dll
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\bin\Debug\net6.0\TimeCop.runtimeconfig.json
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TimeCop\Code\TimeCop\src\TimeCop\obj\Debug\net6.0\TimeCop.genruntimeconfig.cache

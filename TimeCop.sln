@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCop.Web", "src\TimeCop.Web\TimeCop.Web.csproj", "{29C6B84C-0229-4575-85F8-E028137CB2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCop", "src\TimeCop\TimeCop.csproj", "{64F65807-DB47-4CE7-BE2C-B4093975F703}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{55DF5359-235E-42F7-9AF0-127A43576C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C6B84C-0229-4575-85F8-E028137CB2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C6B84C-0229-4575-85F8-E028137CB2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C6B84C-0229-4575-85F8-E028137CB2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C6B84C-0229-4575-85F8-E028137CB2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F65807-DB47-4CE7-BE2C-B4093975F703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F65807-DB47-4CE7-BE2C-B4093975F703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F65807-DB47-4CE7-BE2C-B4093975F703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F65807-DB47-4CE7-BE2C-B4093975F703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29C6B84C-0229-4575-85F8-E028137CB2CD} = {55DF5359-235E-42F7-9AF0-127A43576C76}
+		{64F65807-DB47-4CE7-BE2C-B4093975F703} = {55DF5359-235E-42F7-9AF0-127A43576C76}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6780948C-3C8D-4AC9-901F-D5C71C63E5B6}
+	EndGlobalSection
+EndGlobal
